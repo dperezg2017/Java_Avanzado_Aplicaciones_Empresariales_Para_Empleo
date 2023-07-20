@@ -1,0 +1,10 @@
+Desarrollar una aplicación web empresarial de una Tienda Musical con frameworks como Primefaces, JPA, Spring, WebServices y más.
+Realizar transacciones CRUD a una base de datos con el framework de Hibernate
+Gestionar aplicaciones con Maven creando proyectos Multi Modules
+Spring Core, Spring JPA Data, Spring Web e integración de Spring con JSF
+Crear y consumir WebServices con API Rest
+Técnicas para mejorar la calidad de código. ¡Qué SI y que NO hacer!
+Generar Reportes con JasperReports
+Simular Métodos de Pago con PayPal Sandbox API
+Deployar tu aplicación en AWS - Amazon Elastic Beanstalk
+Ambientar tu base de datos en Amazon RDS
